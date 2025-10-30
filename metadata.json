@@ -1,0 +1,7 @@
+{
+  "name": "AI Travel Planner",
+  "description": "An intelligent travel planner that uses Gemini to create optimized, shareable itineraries based on your destination, plans, and preferences. It leverages Google Maps for accurate, real-time information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
